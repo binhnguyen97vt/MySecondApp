@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-
+    <item android:id="@+id/itFriends"
+        android:title="Bạn Bè"
+        android:icon="@mipmap/ic_watch_later_black_24dp"
+        android:orderInCategory="100"></item>
+    <item android:id="@+id/itSettings"
+        android:title="Settings"
+        android:icon="@mipmap/ic_thumb_up_black_24dp"
+        android:orderInCategory="100"></item>
 </menu>
